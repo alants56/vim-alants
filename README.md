@@ -15,7 +15,11 @@
 &nbsp; &nbsp; &nbsp; &nbsp;windows
 
 
+#4.
 
+![linux-vim](http://www.yueguangshaigu.com/images/20161106vim.png)
+
+![windows-gvim](http://www.yueguangshaigu.com/images/20161106gvim.png)
 
 
 
