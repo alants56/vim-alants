@@ -1,25 +1,26 @@
-## 1.vimrc
+
+## 1. my vim
+
+<http://liuao.tech/post/20170114/>
+
+## 2.vimrc
     
-&nbsp; &nbsp; &nbsp; &nbsp;windows
+&nbsp; &nbsp; &nbsp; &nbsp;on windows
 
-&nbsp; &nbsp; &nbsp; &nbsp;Linux
+&nbsp; &nbsp; &nbsp; &nbsp;on Linux
 
-## 2.plugin
+## 3.plugin
 
-&nbsp; &nbsp; &nbsp; &nbsp;windows
+&nbsp; &nbsp; &nbsp; &nbsp;on windows
 
-&nbsp; &nbsp; &nbsp; &nbsp;Linux
+&nbsp; &nbsp; &nbsp; &nbsp;on Linux
 
-## 3.win-tags
+## 4.win-tags
 
-&nbsp; &nbsp; &nbsp; &nbsp;windows
+&nbsp; &nbsp; &nbsp; &nbsp;on windows
 
 
-## 4.
 
-![linux-vim](http://www.yueguangshaigu.com/images/20161106vim.png)
-
-![windows-gvim](http://www.yueguangshaigu.com/images/20161106gvim.png)
 
 
 
